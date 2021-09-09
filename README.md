@@ -2,8 +2,9 @@ Ready for new challenges.
 
 ## Stack:
 - Node.js
-- React
-- React Native
+- React / React Native / Vue
+- Postgresql / Prisma
+- Typescript
 
 
 ## Repos:
